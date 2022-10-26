@@ -37,7 +37,7 @@ cp .env.example .env
 deta update -e .env
 ```
 
-> **Note:** Note: Deta Micros time out after 10 seconds. If the screenshot has not been returned by then, please reload the page and try again.
+> **Note:** Deta Micros time out after 10 seconds. If the screenshot has not been returned by then, please reload the page and try again.
 
 ## Update the project 🖊️
 
