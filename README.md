@@ -37,6 +37,8 @@ cp .env.example .env
 deta update -e .env
 ```
 
+> **Note:** Note: Deta Micros time out after 10 seconds. If the screenshot has not been returned by then, please reload the page and try again.
+
 ## Update the project 🖊️
 
 If you have made changes and want to deploy them to Deta, run the following command.
